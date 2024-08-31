@@ -24,7 +24,7 @@ const ParticipantForm = () => {
       {/* Banner Image with increased height */}
       <Box
         component="img"
-        src="https://as2.ftcdn.net/v2/jpg/04/63/26/43/1000_F_463264368_Y6FOKiJsbURjvoQWmhyGbE6RQuawNfWg.jpg"
+        src="https://img.freepik.com/free-vector/share-your-feedback-blue-background_1017-38798.jpg?size=626&ext=jpg&ga=GA1.1.1924195857.1698133596&semt=ais_hybrid"
         alt="banner"
         sx={{
           width: 'calc(100% - 40px)', // Small gap on left and right
